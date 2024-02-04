@@ -39,3 +39,11 @@ GIVEN a note-taking application:
 ## Screenshot: 
 
 ![Alt text](image.png)
+
+## Deployed URL to Heroku: 
+
+https://note-taker91-d25aa233ddf3.herokuapp.com/ 
+
+## GitHub Repository Link: 
+
+https://github.com/waltscode/Note_Taker_App 
