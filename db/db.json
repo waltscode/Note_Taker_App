@@ -3,5 +3,10 @@
         "title": "test test ",
         "text": "teststststs\n",
         "id": 801
+    },
+    {
+        "title": "EXAMPLE OF A NEW NOTE",
+        "text": "This is a note that will be added to the page!",
+        "id": 936
     }
 ]
